@@ -554,6 +554,6 @@ evil-winrm -i 10.129.228.253 -u 'Administrator' -H a52f78e4c751e5f5e17e1e9f3e58f
 C:\Users\Administrator\Documents
 ```
 
-La flag de `usuario` se encuentra en: `C:\Users\Administrator\Desktop`.
+La flag de `root` se encuentra en: `C:\Users\Administrator\Desktop`.
 
 ---
