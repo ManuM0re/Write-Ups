@@ -23,10 +23,6 @@ tags:
 >La intrusión comienza con la enumeración de servicios SMB, donde se identifica que el sistema es vulnerable a esta falla ampliamente conocida. Aprovechando esta vulnerabilidad, se obtiene ejecución remota de código sin autenticación.  
 >Mediante el uso de Metasploit, se consigue acceso como **NT AUTHORITY\SYSTEM**, comprometiendo completamente la máquina.
 
-Máquina de Hack The Box llamada **[Blue](https://app.hackthebox.com/machines/Blue)**, centrada en la explotación de la vulnerabilidad crítica **MS17-010 (EternalBlue)** en sistemas Windows.  
-La intrusión comienza con la enumeración de servicios SMB, donde se identifica que el sistema es vulnerable a esta falla ampliamente conocida. Aprovechando esta vulnerabilidad, se obtiene ejecución remota de código sin autenticación.  
-Mediante el uso de Metasploit, se consigue acceso como **NT AUTHORITY\SYSTEM**, comprometiendo completamente la máquina.
-
 ---
 ## Enumeración
 ### Enumeración del sistema
